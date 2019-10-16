@@ -16,6 +16,7 @@
     2.1. 然后在[GitHub项目页面](https://github.com/mengfeimu/IGSNRR)点击“Clone or download”，“Open in Desktop”；
     
     2.2. 需要查看更新时，在GitHub Desktop软件首页中点击“Fetch Origin”，然后进入本地文件夹即可查看。
+
 # 共同编辑本站
 
 如果想共同编辑本站，请点击[GitHub项目页面](https://github.com/mengfeimu/IGSNRR)右上角的“Fork”并进行相关操作。欢迎共同编辑以及时提供更多有用信息。
