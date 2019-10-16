@@ -1,9 +1,12 @@
-
 本站主要存储记录中科院地理所毕业以及求职相关信息和文件，方便有需要的同学查看搜索，如有侵权或任何不当之处请告知，立即删除。
+
+[GitHub项目根目录链接](https://github.com/mengfeimu/IGSNRR)
+
+[2020届毕业生微信群分享文件汇总](https://github.com/mengfeimu/IGSNRR/tree/master/wechat_files_2020)
 
 # 如何批量下载本站所有文件
 
-在本页面点击“Clone or download”，然后点击“Download ZIP”。
+在[本页面](https://github.com/mengfeimu/IGSNRR)点击“Clone or download”，然后点击“Download ZIP”。
 
 # 如何跟踪本站所做更改与最新文件
 
