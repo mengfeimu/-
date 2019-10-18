@@ -20,3 +20,5 @@
 # 共同编辑本站
 
 如果想共同编辑本站，请点击[GitHub项目页面](https://github.com/mengfeimu/IGSNRR)右上角的“Fork”并进行相关操作。欢迎共同编辑以及时提供更多有用信息。
+
+如果有其他问题，请在[Issues页面](https://github.com/mengfeimu/IGSNRR/issues)点击[New Issue](https://github.com/mengfeimu/IGSNRR/issues/new)提问交流。
