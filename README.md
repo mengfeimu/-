@@ -8,6 +8,8 @@
 
 [2020届毕业生微信群分享文件汇总页面](https://github.com/mengfeimu/IGSNRR/tree/master/wechat_files_2020)
 
+[常见问题汇总，如就业推荐表领取等](https://github.com/mengfeimu/IGSNRR/issues)
+
 
 # 跟踪本站所做更改与最新文件
 
